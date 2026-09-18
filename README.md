@@ -1,3 +1,4 @@
 # launch-console
 
-First task: editing a file (this one!)
+## Day 1 working on BudgetBuddy
+Today I made my first real commit. Excited to start building.
